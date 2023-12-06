@@ -96,11 +96,11 @@
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 
-footer{
+#footer{
     background-color: #4169E1;
     color: whitesmoke;
 }
-.Copyright{
+#footer .Copyright{
     background-color: black; 
     color:whitesmoke;
 }
